@@ -1,0 +1,167 @@
+{
+  "name": {
+    "chart": "Pob\u00f3r 2022",
+    "OZE": "Oddanie 2022"
+  },
+  "dane": {
+    "chart": [
+      {
+        "suma": "292.675",
+        "tariff1": "292.675",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "31",
+        "Cnt": "31",
+        "Date": "2022-01"
+      },
+      {
+        "suma": "284.01",
+        "tariff1": "284.01",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "28",
+        "Cnt": "28",
+        "Date": "2022-02"
+      },
+      {
+        "suma": "277.106",
+        "tariff1": "277.106",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "31",
+        "Cnt": "31",
+        "Date": "2022-03"
+      },
+      {
+        "suma": "106.839",
+        "tariff1": "106.839",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "13",
+        "Cnt": "13",
+        "Date": "2022-04"
+      },
+      {
+        "Date": "2022-05"
+      },
+      {
+        "Date": "2022-06"
+      },
+      {
+        "Date": "2022-07"
+      },
+      {
+        "Date": "2022-08"
+      },
+      {
+        "Date": "2022-09"
+      },
+      {
+        "Date": "2022-10"
+      },
+      {
+        "Date": "2022-11"
+      },
+      {
+        "Date": "2022-12"
+      }
+    ],
+    "other": [],
+    "myAverage": [],
+    "average": [],
+    "target": [],
+    "alerts": [],
+    "OZE": [
+      {
+        "suma": "153.81",
+        "tariff1": "153.81",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "31",
+        "Cnt": "31",
+        "Date": "2022-01"
+      },
+      {
+        "suma": "336.592",
+        "tariff1": "336.592",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "28",
+        "Cnt": "28",
+        "Date": "2022-02"
+      },
+      {
+        "suma": "784.099",
+        "tariff1": "784.099",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "31",
+        "Cnt": "31",
+        "Date": "2022-03"
+      },
+      {
+        "suma": "294.717",
+        "tariff1": "294.717",
+        "status1": "0",
+        "tariff": "G11",
+        "Cnt1": "13",
+        "Cnt": "13",
+        "Date": "2022-04"
+      },
+      {
+        "Date": "2022-05"
+      },
+      {
+        "Date": "2022-06"
+      },
+      {
+        "Date": "2022-07"
+      },
+      {
+        "Date": "2022-08"
+      },
+      {
+        "Date": "2022-09"
+      },
+      {
+        "Date": "2022-10"
+      },
+      {
+        "Date": "2022-11"
+      },
+      {
+        "Date": "2022-12"
+      }
+    ]
+  },
+  "sum": 960.6299999999999,
+  "sumOther": 0,
+  "sumAverage": 0,
+  "sumTarget": 0,
+  "OZEValue": 1569.2179999999998,
+  "sLastReadOZE": "Stan licznika na dzie\u0144: 2022-03-31<br \/><div style=\"width:112px\">Strefa T1<dd class=\"scale\">001413<\/dd><\/div>",
+  "pie": {
+    "glowny": {
+      "color": [
+        "#002E5F"
+      ],
+      "dane": [
+        {
+          "title": "G11, Ca\u0142a doba",
+          "value": "960.63"
+        }
+      ],
+      "type": 1,
+      "name": "2022"
+    }
+  },
+  "TargetValue": 0,
+  "TargetRange": "",
+  "sCompareTable": "",
+  "average": 275.086,
+  "predict": 3301.029,
+  "averageOther": 0,
+  "averageOZE": 488.654,
+  "predictOZE": 5863.851,
+  "ok": 1
+}
