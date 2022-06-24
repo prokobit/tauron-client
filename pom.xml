@@ -7,7 +7,7 @@
 
   <groupId>io.prokobit</groupId>
   <artifactId>tauron-client</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
 
   <name>tauron-client</name>
 
@@ -16,9 +16,6 @@
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
-    <sonar.organization>prokobit</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <dependencies>
@@ -160,4 +157,12 @@
       </plugin>
     </plugins>
   </build>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/prokobit/tauron-client</url>
+    </repository>
+  </distributionManagement>
+
 </project>
